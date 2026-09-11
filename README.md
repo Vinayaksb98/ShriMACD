@@ -1,0 +1,1 @@
+MACD 60% + Stochastic 30% + Volume 10%. Includes hard stochastic-overbought rejection after MACD zero cross, breakout BUY CALL, structure/ATR stop, next-resistance targets, and technical potential/reachability score. Timeframes: 1m, 15m, 1h, 1d.
