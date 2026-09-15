@@ -1,0 +1,1 @@
+MACD 60% + Stochastic 30% + Volume 10%. Hard rejection when both Stochastic %K and %D are >70 immediately after bullish MACD zero-line cross. Includes BUY CALL, breakout entry, structure+ATR stop loss, next-resistance targets. Potential and Reachability are hidden from the dashboard. Timeframes: 1m, 15m, 1h, 1d.
