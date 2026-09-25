@@ -1,1 +1,0 @@
-Fresh MACD zero-cross Nifty 500 scanner. Default market cap ₹10,000 Cr. Timeframes 1m/15m/1h/1d. MACD 60%, Stochastic 30%, Volume 10%. Fresh cross limited to 7 bars. Potential/Reachability hidden.
